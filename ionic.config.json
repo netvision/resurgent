@@ -1,0 +1,7 @@
+{
+  "name": "resurgentvue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
